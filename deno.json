@@ -8,5 +8,23 @@
     "rules": {
       "exclude": ["no-explicit-any", "no-console"]
     }
+  },
+  "deploy": {
+    "org": "9putt",
+    "app": "google-tasks-mcp"
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
